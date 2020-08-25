@@ -10,7 +10,7 @@ replace (
 
 require (
 	github.com/golang/protobuf v1.4.2
-	go.opentelemetry.io/otel v0.10.0
+	go.opentelemetry.io/otel v0.11.0
 	go.opentelemetry.io/otel/exporters/stdout v0.10.0
 	go.opentelemetry.io/otel/sdk v0.10.0
 	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
